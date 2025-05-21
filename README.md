@@ -37,7 +37,7 @@
 ***
   相关内容我在报告中有提及过，如果不是很清楚的话，可以参考我的实验报告，希望能够帮助你理清CPU的设计思路，以及帮你解决遇到的问题o((>ω< ))o。
 ***
-  我在完成CPU的时候参考了ZhengBryan大佬和Misaka-N大佬的思路，两个大佬设计的都非常出色，很好地帮助我滤清整体CPU框架地思路。如果说你看我的代码理解不是很清楚的话，可以回去参考两位大佬的框架(≧∇≦)ﾉ，他们的帮助文档和报告都写的很详细，可以帮你更好的理解整个CPU的项目。
+  我在完成CPU的时候参考了ZhengBryan大佬和Misaka-N大佬的思路，两个大佬设计的都非常出色，很好地帮我理清整体CPU框架地思路。如果说你看我的代码理解不是很清楚的话，可以回去参考两位大佬的框架(≧∇≦)ﾉ，他们的帮助文档和报告都写的很详细，可以帮你更好的理解整个CPU的项目。
 
   这是ZhengBryan大佬的仓库链接：[TongjiCS-Undergraduate-Courses/计算机组成原理课程设计-陈永生
 /31条指令CPU](https://github.com/ZhengBryan/TongjiCS-Undergraduate-Courses/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1-%E9%99%88%E6%B0%B8%E7%94%9F/31%E6%9D%A1%E6%8C%87%E4%BB%A4CPU)
